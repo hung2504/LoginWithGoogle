@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">LoginWithGoogle</string>
-    <string name="facebook_app_id">[APP_ID]</string>
-    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="facebook_app_id">1082315195639993</string>
+    <string name="fb_login_protocol_scheme">fb1082315195639993</string>
+
 
 </resources>
